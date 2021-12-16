@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-#### I'm a Software Developer working in Ankara,Turkey.
+#### I'm a Software Developer 👩🏻‍💻
 
 - 🔭 I’m currently working on embedding programming.
-- 🌱 I’m currently learning web development, front-end and back-end develeopment.
+- 🌱 I’m currently learning web development, front-end and back-end development.
 - 💬 Ask me about anything you want 🙂
 
 
