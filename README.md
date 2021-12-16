@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+<h1> I am Cansu <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 
 <!--
 **cansuynk/cansuynk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +19,17 @@ Here are some ideas to get you started:
 
 #### I'm a Software Developer working in Ankara,Turkey.
 
+- 🔭 I’m currently working on embedding programming.
+- 🌱 I’m currently learning web development, front-end and back-end develeopment
+- 💬 Ask me about anything you want 🙂
+
+
 ### ✨ Hobbies
-- 🏃‍♀️ Running
+- 🏃‍♀️ Walking
+- 🎾 Tennis
 - 📚 Reading books
-- 🌎 Learning foreign languages (English, German, French, Albanian)
+- 🌎 Travelling
+- 🎥 Movies
 
 ### Stats
 [![Cansu's github streak](https://github-readme-streak-stats.herokuapp.com/?user=cansuynk&theme=tokyonight)](https://github.com/cansuynk/github-readme-streak-stats)
