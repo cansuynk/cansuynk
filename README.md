@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 #### I'm a Software Developer 👩🏻‍💻
 
-- 🔭 I’m currently working on embedding programming.
+- 🔭 I’m currently working on embedded programming.
 - 🌱 I’m currently learning web development, front-end and back-end development.
 - 📫 How to reach me: You can sent e-mail to me: cansuyanik96@gmail.com
 - 💬 Ask me about anything you want 🙂
