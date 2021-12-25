@@ -28,24 +28,27 @@ Here are some ideas to get you started:
 - 🏃‍♀️ Walking, 🎾 Tennis, 📚 Reading books, 🌎 Travelling, 🎥 Movies, 🔎 Searching and 👩🏻‍🎓 Learning new things
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/cansuyanik'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/cansuynk'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/cansuyanik'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin-original.svg"/></a> 
+<a href = 'https://www.github.com/cansuynk'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rdevicons/devicon/master/icons/github-original.svg"/></a>
+<a href="https://www.linkedin.com/in/cansuyanik"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align='left'>
-<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
-<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
-<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>                                       
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>    
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
+<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/c-original.svg'>
+<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp-original.svg'>
+<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/python-original.svg'>
+<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript-original.svg'>
+<img width ='32px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap-original.svg'>                                       
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html-original.svg'>    
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/git-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/github-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/github.svg'>
 
 </p>
 
