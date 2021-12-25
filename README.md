@@ -39,28 +39,25 @@ Here are some ideas to get you started:
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'>
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg'>
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
-<img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'> 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>    
+<img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg'> 
-  
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg'>
 
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg'>
-  
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg'> 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg'> 
