@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### I'm a Software Developer 👩🏻‍💻
 
 - 🔭 I’m currently working on embedded programming.
-- 👩🏻‍🎓 I graduated from ITU - Computer Engineering department in 2020.
+- 👩🏻‍🎓  I graduated from ITU - Computer Engineering department in 2020.
 - 🌱 I’m currently learning .NET and React. I am improving myself on web development, front-end and back-end development.
 - 📫 How to reach me: You can sent e-mail to me: cansuyanik96@gmail.com
 - 💬 Ask me about anything you want 🙂
