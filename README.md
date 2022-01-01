@@ -69,7 +69,9 @@ Here are some ideas to get you started:
 [![Cansu's stats](https://github-readme-stats.vercel.app/api?username=cansuynk&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/cansuynk/github-readme-stats)
 
 ### Languages
-[![Cansu's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cansuynk&theme=tokyonight)](https://github.com/cansuynk/github-readme-stats)
+<!--- [![Cansu's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cansuynk&theme=tokyonight)](https://github.com/cansuynk/github-readme-stats) -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cansuynk&show_icons=true&theme=radical&locale=en&layout=compact" alt="cansuyanik" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/cansuynk)
 [![GitHub followers](https://img.shields.io/github/followers/cansuynk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/cansuynk?tab=followers)
