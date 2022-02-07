@@ -28,11 +28,6 @@ Here are some ideas to get you started:
 ### ✨ Hobbies
 - 🏃‍♀️ Walking, 🎾 Tennis, 📚 Reading books, 🌎 Travelling, 🎥 Movies, 🔎 Searching and 👩🏻‍🎓 Learning new things
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/cansuyanik'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a> 
-<a href = 'https://www.github.com/cansuynk'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>
-<a href="mailto: cansuyanik96@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align='left'>
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'>
@@ -76,9 +71,9 @@ Here are some ideas to get you started:
 <!--- [![Cansu's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cansuynk&theme=tokyonight)](https://github.com/cansuynk/github-readme-stats) -->
 
 <h2>Stats</h2>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cansuynk&theme=tokyonight" alt="cansuyanik" />
+<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=cansuynk&theme=tokyonight" alt="cansuyanik" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=cansuynk&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=cansuynk&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 ![Profile views](https://gpvc.arturio.dev/cansuynk)
 [![GitHub followers](https://img.shields.io/github/followers/cansuynk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/cansuynk?tab=followers)
