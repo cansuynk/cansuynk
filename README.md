@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'> 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'>
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg'>
